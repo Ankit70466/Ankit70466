@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya! 👋
+# Hi there, I'm Ankit Patel! 👋
 
 ## A self-taught developer from India.
 
